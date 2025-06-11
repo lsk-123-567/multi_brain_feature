@@ -15,7 +15,7 @@ wpli_1.py is designed to compute the weighted phase lag index (wPLI) between pai
 
 ![result_top](https://github.com/user-attachments/assets/3593f7d0-3f55-4464-9807-777303757980)
 
-7.In addition, overall average bar charts are plotted using ISC_plot_bar.py, arousal_plot_bar.py, and wpli_plot_bar.py, which display the group-level mean values to reflect the level of synchrony within each group. The results are shown in ISC_plot_bar.png, arousal_plot_bar.png, and wpli_plot_bar.png, respectively.
+7. In addition, overall average bar charts are plotted using ISC_plot_bar.py, arousal_plot_bar.py, and wpli_plot_bar.py, which display the group-level mean values to reflect the level of synchrony within each group. The results are shown in ISC_plot_bar.png, arousal_plot_bar.png, and wpli_plot_bar.png, respectively.
 
 ![ISC_![arousal_bar](https://github.com/user-attachments/assets/01d88887-6c81-4282-9019-6698c0206cf9)
 bar](https://github.com/user-attachments/assets/db4b3702-34ca-4724-b414-c847e02fc04d)
