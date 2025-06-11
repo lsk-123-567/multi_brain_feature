@@ -11,14 +11,15 @@ multi_brain_fature
 5.arousal2.py calculates the power of three frequency bands and computes the ratio between the alpha and beta bands. This ratio is then used as a measure of emotional arousal.
 wpli_1.py is designed to compute the weighted phase lag index (wPLI) between pairs of subjects across multiple frequency bands (theta, alpha, beta) from EEG data stored in .mat files. 
 
-6.The three extracted features are visualized using ISC_plot_top.py, arousal_plot_top.py, and wpli_plot_top.py, which generate EEG topographic maps for the low-polarization and high-polarization groups. The visualization results are presented in result_top.png.
+6.The three extracted features are visualized using ISC_plot_top.py, arousal_plot_top.py, and wpli_plot_top.py, which gen
+erate EEG topographic maps for the low-polarization and high-polarization groups. The visualization results are presented in result_top.png.
 
 ![result_top](https://github.com/user-attachments/assets/3593f7d0-3f55-4464-9807-777303757980)
 
 7. In addition, overall average bar charts are plotted using ISC_plot_bar.py, arousal_plot_bar.py, and wpli_plot_bar.py, which display the group-level mean values to reflect the level of synchrony within each group. The results are shown in ISC_plot_bar.png, arousal_plot_bar.png, and wpli_plot_bar.png, respectively.
 
 ![ISC_![arousal_bar](https://github.com/user-attachments/assets/01d88887-6c81-4282-9019-6698c0206cf9)
-bar](https://github.com/user-attachments/assets/db4b3702-34ca-4724-b414-c847e02fc04d)
+![arousal_bar](https://github.com/user-attachments/assets/cba36bb2-bb5a-4f9a-b5c9-c6039c269ef5)
 ![wpli_bar](https://github.com/user-attachments/assets/ea82d1b6-63e3-4a1f-bcc3-d3bfd89d2750)
 
 
