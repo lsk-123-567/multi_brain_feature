@@ -1,4 +1,5 @@
 multi_brain_fature
+
 1.Research on Group Decision Bias in Online Ideological Polarization Attack Behavior Models
 
 2.The experimental data consist of resting-state and task-state conditions. Each group includes data from 5 participants, and each participant completed 5 rounds of experiments. The raw experimental data are saved in CSV format.
