@@ -1,6 +1,6 @@
 multi_brain_fature
 
-1.Research on Group Decision Bias in Online Ideological Polarization Attack Behavior Models
+1.
 
 2.The experimental data consist of resting-state and task-state conditions. Each group includes data from 5 participants, and each participant completed 5 rounds of experiments. The raw experimental data are saved in CSV format.
 
@@ -16,13 +16,11 @@ wpli_1.py is designed to compute the weighted phase lag index (wPLI) between pai
 erate EEG topographic maps for the low-polarization and high-polarization groups. The visualization results are presented in result_top.png.
 
 
-![result_top](https://github.com/user-attachments/assets/3593f7d0-3f55-4464-9807-777303757980)
+
 
 7. In addition, overall average bar charts are plotted using ISC_plot_bar.py, arousal_plot_bar.py, and wpli_plot_bar.py, which display the group-level mean values to reflect the level of synchrony within each group. The results are shown in ISC_plot_bar.png, arousal_plot_bar.png, and wpli_plot_bar.png, respectively.
 
-![ISC_bar](https://github.com/user-attachments/assets/7949c67d-32b7-4580-b086-7628d772cf1a)
-![arousal_bar](https://github.com/user-attachments/assets/cba36bb2-bb5a-4f9a-b5c9-c6039c269ef5)
-![wpli_bar](https://github.com/user-attachments/assets/ea82d1b6-63e3-4a1f-bcc3-d3bfd89d2750)
+
 
 
 
