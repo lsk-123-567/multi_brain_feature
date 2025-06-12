@@ -1,6 +1,6 @@
 multi_brain_fature
 
-1.
+1.Feature Extraction of Inter-Brain Synchronization
 
 2.The experimental data consist of resting-state and task-state conditions. Each group includes data from 5 participants, and each participant completed 5 rounds of experiments. The raw experimental data are saved in CSV format.
 
