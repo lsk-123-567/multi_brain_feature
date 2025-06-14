@@ -14,7 +14,7 @@ wpli_1.py is designed to compute the weighted phase lag index (wPLI) between pai
 
 6.The three extracted features are visualized using ISC_plot_top.py, arousal_plot_top.py, and wpli_plot_top.py, which generate EEG topographic maps for the low-polarization and high-polarization groups. The visualization results are presented in result_top.png.
 
- In addition, overall average bar charts are plotted using ISC_plot_bar.py, arousal_plot_bar.py, and wpli_plot_bar.py, which display the group-level mean values to reflect the level of synchrony within each group. The results are shown in ISC_plot_bar.png, arousal_plot_bar.png, and wpli_plot_bar.png, respectively.
+7.In addition, overall average bar charts are plotted using ISC_plot_bar.py, arousal_plot_bar.py, and wpli_plot_bar.py, which display the group-level mean values to reflect the level of synchrony within each group. The results are shown in ISC_plot_bar.png, arousal_plot_bar.png, and wpli_plot_bar.png, respectively.
 
 
 
